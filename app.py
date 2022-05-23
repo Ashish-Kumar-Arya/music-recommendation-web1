@@ -1,4 +1,3 @@
-import webbrowser
 import streamlit as st
 import pickle
 st.title('Song Recommender System')
